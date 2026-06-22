@@ -11,10 +11,14 @@
             "id": "4e606d6cceb2fcbf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "30 Daily/2026-06-22.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2026-06-22"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "30 Daily/2026-06-22.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "30 Daily/2026-06-22.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "30 Daily/2026-06-22.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -162,5 +169,9 @@
     }
   },
   "active": "4e606d6cceb2fcbf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "30 Daily/2026-06-15.md",
+    "30 Daily/2026-06-08.md",
+    "30 Daily/2026-06-22.md"
+  ]
 }
