@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f80af6562ca84674",
+        "id": "518574cb5976cf10",
         "type": "tabs",
         "children": [
           {
-            "id": "4e606d6cceb2fcbf",
+            "id": "a3887faa5fb318b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,10 +168,10 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "4e606d6cceb2fcbf",
+  "active": "a3887faa5fb318b5",
   "lastOpenFiles": [
+    "30 Daily/2026-06-22.md",
     "30 Daily/2026-06-15.md",
-    "30 Daily/2026-06-08.md",
-    "30 Daily/2026-06-22.md"
+    "30 Daily/2026-06-08.md"
   ]
 }
